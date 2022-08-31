@@ -1,0 +1,6 @@
+path
+C:/Users/Enzo.Magal/Documents/Enzo2022/Active-Learning-Phanteras-master/Data/elephant/train/Asian/as_tr145.jpg
+C:/Users/Enzo.Magal/Documents/Enzo2022/Active-Learning-Phanteras-master/Data/elephant/train/African/af_tr100.jpg
+C:/Users/Enzo.Magal/Documents/Enzo2022/Active-Learning-Phanteras-master/Data/elephant/train/African/af_tr169.jpg
+C:/Users/Enzo.Magal/Documents/Enzo2022/Active-Learning-Phanteras-master/Data/elephant/train/African/af_tr69.jpg
+C:/Users/Enzo.Magal/Documents/Enzo2022/Active-Learning-Phanteras-master/Data/elephant/train/African/af_tr419.jpeg
